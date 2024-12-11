@@ -1,1 +1,1 @@
-# Sephora Review Case Study
+# Sephora Review Sentiment Analysis Case Study
