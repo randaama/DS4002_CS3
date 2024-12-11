@@ -1,1 +1,1 @@
-# DS4002_CS3
+# Sephora Review Case Study
