@@ -1,6 +1,7 @@
 # Sephora Review Sentiment Analysis Case Study
 
 ![image](https://github.com/user-attachments/assets/f713537a-b627-46a6-8ca4-25f08c6fa3bb)
+
 This project is exploring customer perception of several types of skincare products, namely moisturizer, sunscreens, and cleansers, as prices increase, according to reviews submitted on Sephora’s website through sentiment analysis.
 
 
