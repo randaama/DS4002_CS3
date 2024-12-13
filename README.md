@@ -24,6 +24,7 @@ The most simple way to conduct the analysis is through using Google Colab. You a
 [1] “Welcome to Vadersentiment’s documentation!,” Welcome to VaderSentiment’s
 documentation! - VaderSentiment 3.3.1 documentation,
 https://vadersentiment.readthedocs.io/en/latest/
+
 ‌
 [2] Nady Inky, "Sephora Products and Skincare Reviews", March, 2023, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews/data
 
