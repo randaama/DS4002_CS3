@@ -6,7 +6,7 @@
 
 ## Overview
 
-Before doing anything, read the 2 files within the reference folder. The CS3 Hook Document provides context for this project, while the CS3 Rubric details the specific benchmarks needed to meet specifications on this assignment.
+Before doing anything, read the 2 files within the Reference Materials folder. The CS3 Hook Document provides context for this project, while the CS3 Rubric details the specific benchmarks needed to meet specifications on this assignment.
 
 
   The script conducting the sentiment analysis serves as a guide of one possible way to conduct it. If you would like a more comprehensive guide to construct code of your own, you may reference one of many articles on the internet such as [2] in the reference section.
