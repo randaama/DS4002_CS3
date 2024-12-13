@@ -19,6 +19,13 @@
 
 ## References
 
+[1] “Welcome to Vadersentiment’s documentation!,” Welcome to VaderSentiment’s
+documentation! - VaderSentiment 3.3.1 documentation,
+https://vadersentiment.readthedocs.io/en/latest/
+‌
+[2] Nady Inky, "Sephora Products and Skincare Reviews", March, 2023, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews/data
 
-[2] L. Geetha, “Vader: A Comprehensive Guide to Sentiment Analysis in Python,” Medium, Feb. 28, 2023. https://medium.com/@rslavanyageetha/vader-a-comprehensive-guide-to-sentiment-analysis-in-python-c4f1868b0d2e
+[3] L. Geetha, “Vader: A Comprehensive Guide to Sentiment Analysis in Python,” Medium, Feb. 28, 2023. https://medium.com/@rslavanyageetha/vader-a-comprehensive-guide-to-sentiment-analysis-in-python-c4f1868b0d2e
+
+[4] Dima Raketa, “How Reviews And Ratings Affect Clients’ Buying Decisions,” Forbes, Aug. 12, 2024. Available: https://www.forbes.com/councils/forbesbusinessdevelopmentcouncil/2024/07/11/how-reviews-and-ratings-affect-clients-buying-decisions/
 ‌
