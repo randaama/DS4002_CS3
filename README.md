@@ -13,8 +13,9 @@
 ## Documentation
 
 
-## Reproducing Results
+## Producing Results
 
+The most simple way to conduct the analysis is through using Google Colab. You are welcome to use VSCode or Jupyter Notebook, but you will likely have to download some of the packages utilized in the script.
 
 
 ## References
