@@ -30,7 +30,9 @@ Before doing anything, read the 2 files within the Reference Materials folder. T
 
 ## Producing Results
 
-The most simple way to conduct the analysis is through using Google Colab. You are welcome to use VSCode or Jupyter Notebook, but you will likely have to download some of the packages utilized in the script. In order to produce the results of this study, first read and follow the instructions in the Data Instructions pdf located in the Data folder. Output the resulting dataset onto your device. Then read the resulting dataset into the Sentiment_review_analysis by replacing the value within the parenthesis of the read_csv() function with the file path to the dataset on your device. Run the edited Sentiment_review_analysis file and the analysis will be complete and compiled into a dataset that can also be outputted to your device to make the visualizations. You then run the Sentiment_review_plot file to make the visualizations.
+The most simple way to conduct the analysis is through using Google Colab. You are welcome to use VSCode or Jupyter Notebook, but you will likely have to download some of the packages utilized in the script.
+
+In order to produce the results of this study, first read and follow the instructions in the Data Instructions pdf located in the Data folder. Output the resulting dataset onto your device. Then read the resulting dataset into the Sentiment_review_analysis by replacing the value within the parenthesis of the read_csv() function with the file path to the dataset on your device. Run the edited Sentiment_review_analysis file and the analysis will be complete and compiled into a dataset that can also be outputted to your device to make the visualizations. You then run the Sentiment_review_plot file to make the visualizations.
 
 ## References
 
