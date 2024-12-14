@@ -4,7 +4,7 @@
 
   This project is exploring customer perception of several types of skincare products, namely moisturizer, sunscreens, and cleansers, as prices increase, according to reviews submitted on Sephora’s website through sentiment analysis.
 
-## Overview
+## Context
 
 Before doing anything, read the 2 files within the Reference Materials folder. The CS3 Hook Document provides context for this project, while the CS3 Rubric details the specific benchmarks needed to meet specifications on this assignment.
 
