@@ -12,21 +12,21 @@ Before doing anything, read the 2 files within the Reference Materials folder. T
 
 ## Documentation
 
-- Articles: a folder containing articles contectualizing the project
-  - ConsumerReviews.pdf: an article explaining the role of reviews and ratings on consumer activilty
-  - SentimentAnalysisInfo.pdf: an article describing and demonstrating one application of sentiment analysis using the VADER package
-- Data folder: a folder containing the following 3 files
-  - Data Instructions.pdf: a pdf file detailing how to obtain and clean the data
-  - Data Appendix.pdf: a pdf file containing information about the dataset (variables, observations, etc.)
-- Reference Materials: a folder containing the reference materials
-  - CS3 Hook Document.pdf: a file providing context to the project
-  - CS3 Rubric.pdf: a file dtailing to benchmarks needed to meet specifications for this assignment
-- Scripts folder: a folder containing the following files
-  - Sentiment_review_analysis.ipynb: a file completing the sentiment analysis on the reviews about each product
-  - Sentiment_review_plots.ipynb: a file completing the visualizations summarizing the sentiment analysis
-  - dataset_construction.ipynb: a file compiling and cleaning the dataset for analysis
-- LICENSE.md: a file citing the terms under which this repository may be used and cited
-- README.md: a file containing all information about the files within the repository
+- **Articles folder:** a folder containing articles contectualizing the project
+  - *ConsumerReviews.pdf:* an article explaining the role of reviews and ratings on consumer activilty
+  - *SentimentAnalysisInfo.pdf:* an article describing and demonstrating one application of sentiment analysis using the VADER package
+- **Data folder:** a folder containing the following 3 files
+  - *Data Instructions.pdf:* a pdf file detailing how to obtain and clean the data
+  - *Data Appendix.pdf:* a pdf file containing information about the dataset (variables, observations, etc.)
+- **Reference Materials folder:** a folder containing the reference materials
+  - *CS3 Hook Document.pdf:* a file providing context to the project
+  - *CS3 Rubric.pdf:* a file dtailing to benchmarks needed to meet specifications for this assignment
+- **Scripts folder:** a folder containing the following files
+  - *Sentiment_review_analysis.ipynb:* a file completing the sentiment analysis on the reviews about each product
+  - *Sentiment_review_plots.ipynb:* a file completing the visualizations summarizing the sentiment analysis
+  - *dataset_construction.ipynb:* a file compiling and cleaning the dataset for analysis
+- **LICENSE.md:** a file citing the terms under which this repository may be used and cited
+- **README.md:** a file containing all information about the files within the repository
 
 ## Producing Results
 
